@@ -24,6 +24,10 @@ Logo Functional Extensions (LogoFE) is a integrated library of procedures. It ha
 * Inferential Statistic distributions
 * Plotting and charting procedures
 
+## Full Documentation
+
+http://neoparaiso.com/logofe/
+
 ## Installation 
 
 Download the appropriate file for your version of Logo, 
